@@ -2068,7 +2068,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(4.2),0.0,39.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>19.8040480563918</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -2081,7 +2081,7 @@
                             <name>emitterconservationratio</name>
                             <expression>randorganic(3.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>66.9540316129405</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -2138,7 +2138,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(6.6),19.5,47)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>40.0398894545037</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -2152,7 +2152,7 @@
                             <name>emitterconservationratio</name>
                             <expression>scale(rand(),37,46)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>40.246009704886</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>rand()</function>
@@ -2273,7 +2273,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(3.5),0.0,87)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>40.883039647351</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -2295,7 +2295,7 @@
                             <name>emitterspeed</name>
                             <expression>randorganic(3.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>80.0310524491382</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -2343,7 +2343,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(map.triangle(sawtooth(6)+50+11),0.0,87)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>81.9429120667193</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>triangle({0})</function>
@@ -2365,7 +2365,7 @@
                             <name>emitterspeed</name>
                             <expression>randorganic(3.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>65.6128375085571</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -2715,7 +2715,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(4.2),0.0,39.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>17.065907515323</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -2728,7 +2728,7 @@
                             <name>emitterconservationratio</name>
                             <expression>randorganic(3.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>80.4153855448116</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -2785,7 +2785,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(6.6),19.5,47)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>37.1976918673973</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -2799,7 +2799,7 @@
                             <name>emitterconservationratio</name>
                             <expression>scale(rand(),37,46)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>44.490157780694</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>rand()</function>
@@ -2920,7 +2920,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(3.5),0.0,87)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>58.7974078041</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -2942,7 +2942,7 @@
                             <name>emitterspeed</name>
                             <expression>randorganic(3.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>79.387925490792</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -2990,7 +2990,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(map.triangle(sawtooth(6)+50+11),0.0,87)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>23.6169846936035</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>triangle({0})</function>
@@ -3012,7 +3012,7 @@
                             <name>emitterspeed</name>
                             <expression>randorganic(3.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>29.5965788205644</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -3596,7 +3596,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(4.2),0.0,39.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>15.9062430444545</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -3609,7 +3609,7 @@
                             <name>emitterconservationratio</name>
                             <expression>randorganic(3.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>5.93407124802133</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -3666,7 +3666,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(6.6),19.5,47)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>32.157226550086</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -3680,7 +3680,7 @@
                             <name>emitterconservationratio</name>
                             <expression>scale(rand(),37,46)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>39.6021912289804</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>rand()</function>
@@ -3801,7 +3801,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(3.5),0.0,87)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>45.6434066074721</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -3823,7 +3823,7 @@
                             <name>emitterspeed</name>
                             <expression>randorganic(3.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>53.2621081001241</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -3871,7 +3871,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(map.triangle(sawtooth(6)+50+11),0.0,87)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>65.521623353356</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>triangle({0})</function>
@@ -3893,7 +3893,7 @@
                             <name>emitterspeed</name>
                             <expression>randorganic(3.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>65.637477090752</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -4423,7 +4423,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(4.2),0.0,39.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0.26463013385625</value>
+                            <value>21.6821197834825</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -4436,7 +4436,7 @@
                             <name>emitterconservationratio</name>
                             <expression>randorganic(3.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>68.4623370137385</value>
+                            <value>48.9123962873904</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -4493,7 +4493,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(6.6),19.5,47)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>32.4374851436478</value>
+                            <value>29.8087315631762</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -4507,7 +4507,7 @@
                             <name>emitterconservationratio</name>
                             <expression>scale(rand(),37,46)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>41.0076601458785</value>
+                            <value>39.5068819238868</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>rand()</function>
@@ -4628,7 +4628,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(3.5),0.0,87)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>15.3569648938135</value>
+                            <value>40.7910683536336</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -4650,7 +4650,7 @@
                             <name>emitterspeed</name>
                             <expression>randorganic(3.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>80.865907464865</value>
+                            <value>66.7789457258562</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -4698,7 +4698,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(map.triangle(sawtooth(6)+50+11),0.0,87)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>64.1542150187855</value>
+                            <value>82.1302919124791</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>triangle({0})</function>
@@ -4720,7 +4720,7 @@
                             <name>emitterspeed</name>
                             <expression>randorganic(3.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>3.41196098739009</value>
+                            <value>49.9803980290893</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -5340,7 +5340,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(4.2),0.0,39.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>22.9260406715256</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -5353,7 +5353,7 @@
                             <name>emitterconservationratio</name>
                             <expression>randorganic(3.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>33.1832854543155</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -5410,7 +5410,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(6.6),19.5,47)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>35.8025291546767</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -5424,7 +5424,7 @@
                             <name>emitterconservationratio</name>
                             <expression>scale(rand(),37,46)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>37.3002105777154</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>rand()</function>
@@ -5545,7 +5545,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(3.5),0.0,87)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>49.9072251747522</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -5567,7 +5567,7 @@
                             <name>emitterspeed</name>
                             <expression>randorganic(3.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>47.1382391733884</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -5615,7 +5615,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(map.triangle(sawtooth(6)+50+11),0.0,87)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>9.86392310610351</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>triangle({0})</function>
@@ -5637,7 +5637,7 @@
                             <name>emitterspeed</name>
                             <expression>randorganic(3.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>48.0413181206863</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -6167,7 +6167,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(4.2),0.0,39.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>21.5048419734962</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -6180,7 +6180,7 @@
                             <name>emitterconservationratio</name>
                             <expression>randorganic(3.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>74.6560837922591</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -6299,7 +6299,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(6.6),19.5,47)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>28.3182888591055</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -6313,7 +6313,7 @@
                             <name>emitterconservationratio</name>
                             <expression>scale(rand(),37,46)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>40.56901760918</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>rand()</function>
@@ -6372,7 +6372,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(3.5),0.0,87)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>52.7580913752193</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -6394,7 +6394,7 @@
                             <name>emitterspeed</name>
                             <expression>randorganic(3.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>38.623502432652</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -6442,7 +6442,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(map.triangle(sawtooth(6)+50+11),0.0,87)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>12.059829122545</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>triangle({0})</function>
@@ -6464,7 +6464,7 @@
                             <name>emitterspeed</name>
                             <expression>randorganic(3.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>48.4103704958956</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -7048,7 +7048,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(4.2),0.0,39.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>15.1014743152477</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -7061,7 +7061,7 @@
                             <name>emitterconservationratio</name>
                             <expression>randorganic(3.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>46.0081807832695</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -7118,7 +7118,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(6.6),19.5,47)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>31.390305998042</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -7132,7 +7132,7 @@
                             <name>emitterconservationratio</name>
                             <expression>scale(rand(),37,46)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>37.3466292306284</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>rand()</function>
@@ -7253,7 +7253,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(3.5),0.0,87)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>28.0995197024822</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -7275,7 +7275,7 @@
                             <name>emitterspeed</name>
                             <expression>randorganic(3.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>0.833430383452588</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -7323,7 +7323,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(map.triangle(sawtooth(6)+50+11),0.0,87)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>13.7443894605256</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>triangle({0})</function>
@@ -7345,7 +7345,7 @@
                             <name>emitterspeed</name>
                             <expression>randorganic(3.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>0</value>
+                            <value>65.1366089668753</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -7719,7 +7719,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(map.cos(sawtooth(0.8)+75+50),14,35)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>20.8485617891805</value>
+                            <value>17.7367717460015</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>cos({0})</function>
@@ -7787,7 +7787,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(sin(0.8),0,47)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>1.46675101776192</value>
+                            <value>5.5242154207487</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>sin({0})</function>
@@ -7801,7 +7801,7 @@
                             <name>emitterconservationratio</name>
                             <expression>scale(map.sin(sawtooth(0.8)+75+50),0.0,60)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>58.12755189222</value>
+                            <value>52.9478101012581</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>sin({0})</function>
@@ -7859,7 +7859,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(map.sin(sawtooth(0.8)+75+50),10,20.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>20.1723215811385</value>
+                            <value>19.2658667677202</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>sin({0})</function>
@@ -7927,7 +7927,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(rand(),90,100)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>92.640766624958</value>
+                            <value>95.7286294137394</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>rand()</function>
@@ -9827,7 +9827,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(map.cos(sawtooth(0.8)+75+50),14,35)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>20.8485617891805</value>
+                            <value>17.7367717460015</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>cos({0})</function>
@@ -9895,7 +9895,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(sin(0.8),0,47)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>1.46675101776192</value>
+                            <value>5.5242154207487</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>sin({0})</function>
@@ -9909,7 +9909,7 @@
                             <name>emitterconservationratio</name>
                             <expression>scale(map.sin(sawtooth(0.8)+75+50),0.0,60)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>58.12755189222</value>
+                            <value>52.9478101012581</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>sin({0})</function>
@@ -9967,7 +9967,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(map.sin(sawtooth(0.8)+75+50),10,20.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>20.1723215811385</value>
+                            <value>19.2658667677202</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>sin({0})</function>
@@ -10035,7 +10035,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(rand(),90,100)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>90.3735465559862</value>
+                            <value>94.559465315714</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>rand()</function>
@@ -11935,7 +11935,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(map.cos(sawtooth(0.8)+75+50),14,35)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>20.8485617891805</value>
+                            <value>17.7367717460015</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>cos({0})</function>
@@ -12003,7 +12003,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(rand(),90,100)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>91.8985564745018</value>
+                            <value>96.771752067629</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>rand()</function>
@@ -12071,7 +12071,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(sin(0.8),0,47)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>1.46675101776192</value>
+                            <value>5.5242154207487</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>sin({0})</function>
@@ -12085,7 +12085,7 @@
                             <name>emitterconservationratio</name>
                             <expression>scale(map.sin(sawtooth(0.8)+75+50),0.0,60)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>58.12755189222</value>
+                            <value>52.9478101012581</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>sin({0})</function>
@@ -12143,7 +12143,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(map.sin(sawtooth(0.8)+75+50),10,20.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>20.1723215811385</value>
+                            <value>19.2658667677202</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>sin({0})</function>
@@ -12211,7 +12211,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(rand(),90,100)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>94.2503128147221</value>
+                            <value>95.5577257606738</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>rand()</function>
@@ -14088,7 +14088,7 @@
                       <expression>
                       </expression>
                       <actAsVariable>True</actAsVariable>
-                      <value>100</value>
+                      <value>0</value>
                       <inputMode>0</inputMode>
                       <data />
                     </activationFormula>
@@ -14111,7 +14111,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(map.cos(sawtooth(0.8)+75+50),14,35)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>34.901088659882</value>
+                            <value>24.1982406364896</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>cos({0})</function>
@@ -14179,7 +14179,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(sin(0.8),0,47)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>26.7180001496048</value>
+                            <value>46.9902933251864</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>sin({0})</function>
@@ -14193,7 +14193,7 @@
                             <name>emitterconservationratio</name>
                             <expression>scale(map.sin(sawtooth(0.8)+75+50),0.0,60)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>25.8919147026374</value>
+                            <value>0.012391499762083</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>sin({0})</function>
@@ -14251,7 +14251,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(map.sin(sawtooth(0.8)+75+50),10,20.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>14.5310850729615</value>
+                            <value>10.0021685124584</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>sin({0})</function>
@@ -14319,7 +14319,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(rand(),90,100)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>95.3209021271401</value>
+                            <value>97.0128482924894</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>rand()</function>
@@ -16219,7 +16219,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(map.cos(sawtooth(0.8)+75+50),14,35)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>20.8485617891805</value>
+                            <value>17.7367717460015</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>cos({0})</function>
@@ -16287,7 +16287,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(sin(0.8),0,47)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>1.46675101776192</value>
+                            <value>5.5242154207487</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>sin({0})</function>
@@ -16301,7 +16301,7 @@
                             <name>emitterconservationratio</name>
                             <expression>scale(map.sin(sawtooth(0.8)+75+50),0.0,60)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>58.12755189222</value>
+                            <value>52.9478101012581</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>sin({0})</function>
@@ -16359,7 +16359,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(map.sin(sawtooth(0.8)+75+50),10,20.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>20.1723215811385</value>
+                            <value>19.2658667677202</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>sin({0})</function>
@@ -16427,7 +16427,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(rand(),90,100)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>98.2598345896786</value>
+                            <value>94.7453230384228</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>rand()</function>
@@ -18327,7 +18327,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(map.cos(sawtooth(0.8)+75+50),14,35)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>20.8485617891805</value>
+                            <value>17.7367717460015</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>cos({0})</function>
@@ -18395,7 +18395,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(sin(0.8),0,47)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>1.46675101776192</value>
+                            <value>5.5242154207487</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>sin({0})</function>
@@ -18409,7 +18409,7 @@
                             <name>emitterconservationratio</name>
                             <expression>scale(map.sin(sawtooth(0.8)+75+50),0.0,60)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>58.12755189222</value>
+                            <value>52.9478101012581</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>sin({0})</function>
@@ -18467,7 +18467,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(map.sin(sawtooth(0.8)+75+50),10,20.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>20.1723215811385</value>
+                            <value>19.2658667677202</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>sin({0})</function>
@@ -18535,7 +18535,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(rand(),90,100)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>92.3065889461959</value>
+                            <value>91.6443372905667</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>rand()</function>
@@ -20435,7 +20435,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(map.cos(sawtooth(0.8)+75+50),14,35)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>20.8485617891805</value>
+                            <value>17.7367717460015</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>cos({0})</function>
@@ -20503,7 +20503,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(sin(0.8),0,47)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>1.46675101776192</value>
+                            <value>5.5242154207487</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>sin({0})</function>
@@ -20517,7 +20517,7 @@
                             <name>emitterconservationratio</name>
                             <expression>scale(map.sin(sawtooth(0.8)+75+50),0.0,60)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>58.12755189222</value>
+                            <value>52.9478101012581</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>sin({0})</function>
@@ -20575,7 +20575,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(map.sin(sawtooth(0.8)+75+50),10,20.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>20.1723215811385</value>
+                            <value>19.2658667677202</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>sin({0})</function>
@@ -20643,7 +20643,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(rand(),90,100)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>93.2251960814234</value>
+                            <value>96.8782616657003</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>rand()</function>
@@ -22515,7 +22515,7 @@
                   <expression>
                   </expression>
                   <actAsVariable>True</actAsVariable>
-                  <value>100</value>
+                  <value>0</value>
                   <inputMode>0</inputMode>
                   <data />
                 </activationFormula>
@@ -22544,7 +22544,7 @@
                       <expression>
                       </expression>
                       <actAsVariable>True</actAsVariable>
-                      <value>100</value>
+                      <value>0</value>
                       <inputMode>0</inputMode>
                       <data />
                     </activationFormula>
@@ -22729,7 +22729,7 @@
                       <expression>
                       </expression>
                       <actAsVariable>True</actAsVariable>
-                      <value>100</value>
+                      <value>0</value>
                       <inputMode>0</inputMode>
                       <data />
                     </activationFormula>
@@ -22762,7 +22762,7 @@
                             <expression>
                             </expression>
                             <actAsVariable>True</actAsVariable>
-                            <value>100</value>
+                            <value>0</value>
                             <inputMode>0</inputMode>
                             <data />
                           </formula>
@@ -23196,70 +23196,7 @@
                       <inputMode>0</inputMode>
                       <data />
                     </timeMultiplierFormula>
-                    <emitters>
-                      <emitter>
-                        <direction>255</direction>
-                        <x>7</x>
-                        <y>20</y>
-                        <color>0</color>
-                        <formulas>
-                          <formula>
-                            <name>internalEmitter</name>
-                            <expression>
-                            </expression>
-                            <actAsVariable>True</actAsVariable>
-                            <value>0</value>
-                            <inputMode>0</inputMode>
-                            <data />
-                          </formula>
-                          <formula>
-                            <name>emitterconservationratio</name>
-                            <expression>
-                            </expression>
-                            <actAsVariable>True</actAsVariable>
-                            <value>100</value>
-                            <inputMode>0</inputMode>
-                            <data />
-                          </formula>
-                          <formula>
-                            <name>emitterspeed</name>
-                            <expression>
-                            </expression>
-                            <actAsVariable>True</actAsVariable>
-                            <value>0</value>
-                            <inputMode>0</inputMode>
-                            <data />
-                          </formula>
-                          <formula>
-                            <name>positionX</name>
-                            <expression>
-                            </expression>
-                            <actAsVariable>True</actAsVariable>
-                            <value>8.86075949367089</value>
-                            <inputMode>0</inputMode>
-                            <data />
-                          </formula>
-                          <formula>
-                            <name>positionY</name>
-                            <expression>
-                            </expression>
-                            <actAsVariable>True</actAsVariable>
-                            <value>58.8235294117647</value>
-                            <inputMode>0</inputMode>
-                            <data />
-                          </formula>
-                          <formula>
-                            <name>waveAngle</name>
-                            <expression>
-                            </expression>
-                            <actAsVariable>True</actAsVariable>
-                            <value>0</value>
-                            <inputMode>0</inputMode>
-                            <data />
-                          </formula>
-                        </formulas>
-                      </emitter>
-                    </emitters>
+                    <emitters />
                     <receptors>
                       <receptor>
                         <x>60</x>
@@ -23582,7 +23519,7 @@
                             <expression>
                             </expression>
                             <actAsVariable>True</actAsVariable>
-                            <value>100</value>
+                            <value>0</value>
                             <inputMode>0</inputMode>
                             <data />
                           </formula>
@@ -24004,7 +23941,7 @@
                       <expression>
                       </expression>
                       <actAsVariable>True</actAsVariable>
-                      <value>100</value>
+                      <value>0</value>
                       <inputMode>0</inputMode>
                       <data />
                     </activationFormula>
@@ -24037,7 +23974,7 @@
                             <expression>
                             </expression>
                             <actAsVariable>True</actAsVariable>
-                            <value>100</value>
+                            <value>0</value>
                             <inputMode>0</inputMode>
                             <data />
                           </formula>
@@ -24369,7 +24306,7 @@
                       <expression>
                       </expression>
                       <actAsVariable>True</actAsVariable>
-                      <value>100</value>
+                      <value>0</value>
                       <inputMode>0</inputMode>
                       <data />
                     </activationFormula>
@@ -24402,7 +24339,7 @@
                             <expression>
                             </expression>
                             <actAsVariable>True</actAsVariable>
-                            <value>100</value>
+                            <value>0</value>
                             <inputMode>0</inputMode>
                             <data />
                           </formula>
@@ -24808,7 +24745,7 @@
                       </receptor>
                     </receptors>
                   </grid>
-                  <grid zoomFactor="0.5">
+                  <grid zoomFactor="0.766666666666667">
                     <ID>62d0a6a2-bc0a-4f7e-b008-b2cb523fe3f6</ID>
                     <name>Group7</name>
                     <width>80</width>
@@ -24857,7 +24794,7 @@
                             <expression>
                             </expression>
                             <actAsVariable>True</actAsVariable>
-                            <value>100</value>
+                            <value>0</value>
                             <inputMode>0</inputMode>
                             <data />
                           </formula>
@@ -25004,7 +24941,7 @@
                   <expression>
                   </expression>
                   <actAsVariable>True</actAsVariable>
-                  <value>100</value>
+                  <value>0</value>
                   <inputMode>0</inputMode>
                   <data />
                 </activationFormula>
@@ -25017,6 +24954,171 @@
                   <data />
                 </timeMultiplierFormula>
                 <grids>
+                  <grid zoomFactor="0.3">
+                    <ID>1ecaa571-c23a-4bdd-a9e2-d0b42471ecda</ID>
+                    <name>Group1</name>
+                    <width>80</width>
+                    <height>35</height>
+                    <priority>0</priority>
+                    <activableID>
+                    </activableID>
+                    <masterID>adbe8b05-316d-4e7c-a3e3-7b5de055878a</masterID>
+                    <fadeInMode>0</fadeInMode>
+                    <fadeOutMode>0</fadeOutMode>
+                    <fadeInDelay>0.4</fadeInDelay>
+                    <fadeOutDelay>0.4</fadeOutDelay>
+                    <activationFormula>
+                      <expression>
+                      </expression>
+                      <actAsVariable>True</actAsVariable>
+                      <value>100</value>
+                      <inputMode>0</inputMode>
+                      <data />
+                    </activationFormula>
+                    <timeMultiplierFormula>
+                      <expression>
+                      </expression>
+                      <actAsVariable>True</actAsVariable>
+                      <value>20</value>
+                      <inputMode>0</inputMode>
+                      <data />
+                    </timeMultiplierFormula>
+                    <emitters>
+                      <emitter>
+                        <direction>66</direction>
+                        <x>3</x>
+                        <y>13</y>
+                        <color>0</color>
+                        <formulas>
+                          <formula>
+                            <name>internalEmitter</name>
+                            <expression>
+                            </expression>
+                            <actAsVariable>True</actAsVariable>
+                            <value>100</value>
+                            <inputMode>0</inputMode>
+                            <data />
+                          </formula>
+                          <formula>
+                            <name>emitterconservationratio</name>
+                            <expression>scale(map.sin(sawtooth(6.3)+75+21),0.0,90)</expression>
+                            <actAsVariable>False</actAsVariable>
+                            <value>74.9942529699139</value>
+                            <inputMode>9</inputMode>
+                            <data>
+                              <function>sin({0})</function>
+                              <speed>6.3</speed>
+                              <phase>21</phase>
+                              <targetMax>90</targetMax>
+                            </data>
+                          </formula>
+                          <formula>
+                            <name>emitterspeed</name>
+                            <expression>
+                            </expression>
+                            <actAsVariable>True</actAsVariable>
+                            <value>0</value>
+                            <inputMode>0</inputMode>
+                            <data />
+                          </formula>
+                          <formula>
+                            <name>positionX</name>
+                            <expression>
+                            </expression>
+                            <actAsVariable>True</actAsVariable>
+                            <value>3.79746835443038</value>
+                            <inputMode>0</inputMode>
+                            <data />
+                          </formula>
+                          <formula>
+                            <name>positionY</name>
+                            <expression>
+                            </expression>
+                            <actAsVariable>True</actAsVariable>
+                            <value>38.2352941176471</value>
+                            <inputMode>0</inputMode>
+                            <data />
+                          </formula>
+                          <formula>
+                            <name>waveAngle</name>
+                            <expression>
+                            </expression>
+                            <actAsVariable>True</actAsVariable>
+                            <value>0</value>
+                            <inputMode>0</inputMode>
+                            <data />
+                          </formula>
+                        </formulas>
+                      </emitter>
+                      <emitter>
+                        <direction>33</direction>
+                        <x>0</x>
+                        <y>19</y>
+                        <color>0</color>
+                        <formulas>
+                          <formula>
+                            <name>internalEmitter</name>
+                            <expression>
+                            </expression>
+                            <actAsVariable>True</actAsVariable>
+                            <value>100</value>
+                            <inputMode>0</inputMode>
+                            <data />
+                          </formula>
+                          <formula>
+                            <name>emitterconservationratio</name>
+                            <expression>scale(randorganic(3.8),0.0,80)</expression>
+                            <actAsVariable>False</actAsVariable>
+                            <value>54.4535522076105</value>
+                            <inputMode>9</inputMode>
+                            <data>
+                              <function>randorganic({0})</function>
+                              <speed>3.8</speed>
+                              <phase>21</phase>
+                              <targetMax>80</targetMax>
+                            </data>
+                          </formula>
+                          <formula>
+                            <name>emitterspeed</name>
+                            <expression>
+                            </expression>
+                            <actAsVariable>True</actAsVariable>
+                            <value>0</value>
+                            <inputMode>0</inputMode>
+                            <data />
+                          </formula>
+                          <formula>
+                            <name>positionX</name>
+                            <expression>
+                            </expression>
+                            <actAsVariable>True</actAsVariable>
+                            <value>0</value>
+                            <inputMode>0</inputMode>
+                            <data />
+                          </formula>
+                          <formula>
+                            <name>positionY</name>
+                            <expression>
+                            </expression>
+                            <actAsVariable>True</actAsVariable>
+                            <value>55.8823529411765</value>
+                            <inputMode>0</inputMode>
+                            <data />
+                          </formula>
+                          <formula>
+                            <name>waveAngle</name>
+                            <expression>
+                            </expression>
+                            <actAsVariable>True</actAsVariable>
+                            <value>0</value>
+                            <inputMode>0</inputMode>
+                            <data />
+                          </formula>
+                        </formulas>
+                      </emitter>
+                    </emitters>
+                    <receptors />
+                  </grid>
                   <grid zoomFactor="0.6">
                     <ID>ca923d68-d07e-435b-8159-584c3177619e</ID>
                     <name>Group2</name>
@@ -25065,7 +25167,7 @@
                             <name>emitterconservationratio</name>
                             <expression>scale(map.sin(sawtooth(6.3)+75+21),0.0,85)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>82.5700055478675</value>
+                            <value>83.5353577917587</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>sin({0})</function>
@@ -25131,7 +25233,7 @@
                             <name>emitterconservationratio</name>
                             <expression>scale(randorganic(3.8),0.0,80)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>76.948036988705</value>
+                            <value>56.9797343706293</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -27030,7 +27132,7 @@
                             <name>emitterconservationratio</name>
                             <expression>scale(map.sin(sawtooth(6.3)+75+21),0.0,85)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>82.5700055478675</value>
+                            <value>83.5353577917587</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>sin({0})</function>
@@ -27096,7 +27198,7 @@
                             <name>emitterconservationratio</name>
                             <expression>scale(randorganic(3.8),0.0,80)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>44.9400134427396</value>
+                            <value>49.9842014768993</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -28995,7 +29097,7 @@
                             <name>emitterconservationratio</name>
                             <expression>scale(map.sin(sawtooth(6.3)+75+21),0.0,80)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>77.7129463979929</value>
+                            <value>78.6215132157729</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>sin({0})</function>
@@ -29061,7 +29163,7 @@
                             <name>emitterconservationratio</name>
                             <expression>scale(randorganic(3.8),0.0,80)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>44.9400134427396</value>
+                            <value>41.3521656363732</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -30960,7 +31062,7 @@
                             <name>emitterconservationratio</name>
                             <expression>scale(map.sin(sawtooth(6.3)+75+21),0.0,80)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>77.7129463979929</value>
+                            <value>78.6215132157729</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>sin({0})</function>
@@ -31026,7 +31128,7 @@
                             <name>emitterconservationratio</name>
                             <expression>scale(randorganic(3.8),0.0,80)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>58.7666102131356</value>
+                            <value>72.5904749391476</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -32925,7 +33027,7 @@
                             <name>emitterconservationratio</name>
                             <expression>scale(map.sin(sawtooth(6.3)+75+21),0.0,80)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>77.7129463979929</value>
+                            <value>78.6215132157729</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>sin({0})</function>
@@ -32991,7 +33093,7 @@
                             <name>emitterconservationratio</name>
                             <expression>scale(randorganic(3.8),0.0,80)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>64.7687053452959</value>
+                            <value>43.4353065053124</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -34890,7 +34992,7 @@
                             <name>emitterconservationratio</name>
                             <expression>scale(map.sin(sawtooth(6.3)+75+21),0.0,80)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>77.7129463979929</value>
+                            <value>78.6215132157729</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>sin({0})</function>
@@ -34956,7 +35058,7 @@
                             <name>emitterconservationratio</name>
                             <expression>scale(randorganic(3.8),0.0,80)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>64.7687053452959</value>
+                            <value>32.3475772651793</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -36807,261 +36909,6 @@
                       </receptor>
                     </receptors>
                   </grid>
-                  <grid zoomFactor="0.3">
-                    <ID>fead0c94-b85f-4873-990e-d50bef87f9c9</ID>
-                    <name>Group1</name>
-                    <width>80</width>
-                    <height>35</height>
-                    <priority>0</priority>
-                    <activableID>
-                    </activableID>
-                    <fadeInMode>0</fadeInMode>
-                    <fadeOutMode>0</fadeOutMode>
-                    <fadeInDelay>0.4</fadeInDelay>
-                    <fadeOutDelay>0.4</fadeOutDelay>
-                    <activationFormula>
-                      <expression>
-                      </expression>
-                      <actAsVariable>True</actAsVariable>
-                      <value>100</value>
-                      <inputMode>0</inputMode>
-                      <data />
-                    </activationFormula>
-                    <timeMultiplierFormula>
-                      <expression>
-                      </expression>
-                      <actAsVariable>True</actAsVariable>
-                      <value>20</value>
-                      <inputMode>0</inputMode>
-                      <data />
-                    </timeMultiplierFormula>
-                    <emitters>
-                      <emitter>
-                        <direction>66</direction>
-                        <x>3</x>
-                        <y>13</y>
-                        <color>0</color>
-                        <formulas>
-                          <formula>
-                            <name>internalEmitter</name>
-                            <expression>
-                            </expression>
-                            <actAsVariable>True</actAsVariable>
-                            <value>100</value>
-                            <inputMode>0</inputMode>
-                            <data />
-                          </formula>
-                          <formula>
-                            <name>emitterconservationratio</name>
-                            <expression>scale(map.sin(sawtooth(6.3)+75+21),0.0,90)</expression>
-                            <actAsVariable>False</actAsVariable>
-                            <value>87.427064697742</value>
-                            <inputMode>9</inputMode>
-                            <data>
-                              <function>sin({0})</function>
-                              <speed>6.3</speed>
-                              <phase>21</phase>
-                              <targetMax>90</targetMax>
-                            </data>
-                          </formula>
-                          <formula>
-                            <name>emitterspeed</name>
-                            <expression>
-                            </expression>
-                            <actAsVariable>True</actAsVariable>
-                            <value>0</value>
-                            <inputMode>0</inputMode>
-                            <data />
-                          </formula>
-                          <formula>
-                            <name>positionX</name>
-                            <expression>
-                            </expression>
-                            <actAsVariable>True</actAsVariable>
-                            <value>3.79746835443038</value>
-                            <inputMode>0</inputMode>
-                            <data />
-                          </formula>
-                          <formula>
-                            <name>positionY</name>
-                            <expression>
-                            </expression>
-                            <actAsVariable>True</actAsVariable>
-                            <value>38.2352941176471</value>
-                            <inputMode>0</inputMode>
-                            <data />
-                          </formula>
-                          <formula>
-                            <name>waveAngle</name>
-                            <expression>
-                            </expression>
-                            <actAsVariable>True</actAsVariable>
-                            <value>0</value>
-                            <inputMode>0</inputMode>
-                            <data />
-                          </formula>
-                        </formulas>
-                      </emitter>
-                      <emitter>
-                        <direction>33</direction>
-                        <x>0</x>
-                        <y>19</y>
-                        <color>0</color>
-                        <formulas>
-                          <formula>
-                            <name>internalEmitter</name>
-                            <expression>
-                            </expression>
-                            <actAsVariable>True</actAsVariable>
-                            <value>100</value>
-                            <inputMode>0</inputMode>
-                            <data />
-                          </formula>
-                          <formula>
-                            <name>emitterconservationratio</name>
-                            <expression>scale(randorganic(3.8),0.0,80)</expression>
-                            <actAsVariable>False</actAsVariable>
-                            <value>32.2589875004557</value>
-                            <inputMode>9</inputMode>
-                            <data>
-                              <function>randorganic({0})</function>
-                              <speed>3.8</speed>
-                              <phase>21</phase>
-                              <targetMax>80</targetMax>
-                            </data>
-                          </formula>
-                          <formula>
-                            <name>emitterspeed</name>
-                            <expression>
-                            </expression>
-                            <actAsVariable>True</actAsVariable>
-                            <value>0</value>
-                            <inputMode>0</inputMode>
-                            <data />
-                          </formula>
-                          <formula>
-                            <name>positionX</name>
-                            <expression>
-                            </expression>
-                            <actAsVariable>True</actAsVariable>
-                            <value>0</value>
-                            <inputMode>0</inputMode>
-                            <data />
-                          </formula>
-                          <formula>
-                            <name>positionY</name>
-                            <expression>
-                            </expression>
-                            <actAsVariable>True</actAsVariable>
-                            <value>55.8823529411765</value>
-                            <inputMode>0</inputMode>
-                            <data />
-                          </formula>
-                          <formula>
-                            <name>waveAngle</name>
-                            <expression>
-                            </expression>
-                            <actAsVariable>True</actAsVariable>
-                            <value>0</value>
-                            <inputMode>0</inputMode>
-                            <data />
-                          </formula>
-                        </formulas>
-                      </emitter>
-                    </emitters>
-                    <receptors>
-                      <receptor>
-                        <x>2</x>
-                        <y>14</y>
-                        <fixtureId>E</fixtureId>
-                        <attributeId>intensity</attributeId>
-                      </receptor>
-                      <receptor>
-                        <x>11</x>
-                        <y>14</y>
-                        <fixtureId>E</fixtureId>
-                        <attributeId>saturation</attributeId>
-                      </receptor>
-                      <receptor>
-                        <x>1</x>
-                        <y>15</y>
-                        <fixtureId>A</fixtureId>
-                        <attributeId>intensity</attributeId>
-                      </receptor>
-                      <receptor>
-                        <x>10</x>
-                        <y>15</y>
-                        <fixtureId>A</fixtureId>
-                        <attributeId>saturation</attributeId>
-                      </receptor>
-                      <receptor>
-                        <x>2</x>
-                        <y>16</y>
-                        <fixtureId>D</fixtureId>
-                        <attributeId>intensity</attributeId>
-                      </receptor>
-                      <receptor>
-                        <x>11</x>
-                        <y>16</y>
-                        <fixtureId>D</fixtureId>
-                        <attributeId>saturation</attributeId>
-                      </receptor>
-                      <receptor>
-                        <x>1</x>
-                        <y>17</y>
-                        <fixtureId>B</fixtureId>
-                        <attributeId>intensity</attributeId>
-                      </receptor>
-                      <receptor>
-                        <x>10</x>
-                        <y>17</y>
-                        <fixtureId>B</fixtureId>
-                        <attributeId>saturation</attributeId>
-                      </receptor>
-                      <receptor>
-                        <x>23</x>
-                        <y>17</y>
-                        <fixtureId>E</fixtureId>
-                        <attributeId>hue</attributeId>
-                      </receptor>
-                      <receptor>
-                        <x>2</x>
-                        <y>18</y>
-                        <fixtureId>C</fixtureId>
-                        <attributeId>intensity</attributeId>
-                      </receptor>
-                      <receptor>
-                        <x>11</x>
-                        <y>18</y>
-                        <fixtureId>C</fixtureId>
-                        <attributeId>saturation</attributeId>
-                      </receptor>
-                      <receptor>
-                        <x>22</x>
-                        <y>18</y>
-                        <fixtureId>A</fixtureId>
-                        <attributeId>hue</attributeId>
-                      </receptor>
-                      <receptor>
-                        <x>23</x>
-                        <y>19</y>
-                        <fixtureId>D</fixtureId>
-                        <attributeId>hue</attributeId>
-                      </receptor>
-                      <receptor>
-                        <x>22</x>
-                        <y>20</y>
-                        <fixtureId>B</fixtureId>
-                        <attributeId>hue</attributeId>
-                      </receptor>
-                      <receptor>
-                        <x>23</x>
-                        <y>21</y>
-                        <fixtureId>C</fixtureId>
-                        <attributeId>hue</attributeId>
-                      </receptor>
-                    </receptors>
-                  </grid>
                 </grids>
                 <groups />
               </group>
@@ -37073,7 +36920,7 @@
                   <expression>
                   </expression>
                   <actAsVariable>True</actAsVariable>
-                  <value>100</value>
+                  <value>0</value>
                   <inputMode>0</inputMode>
                   <data />
                 </activationFormula>
@@ -37189,7 +37036,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(4.2),15,27)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>21.2049774430938</value>
+                            <value>24.5772695232296</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -37257,7 +37104,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(map.sin(sawtooth(4.2)+75+69),10,33)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>31.858158572543</value>
+                            <value>14.7458814848917</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>sin({0})</function>
@@ -37388,7 +37235,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(4.2),15,27)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>18.3598193728156</value>
+                            <value>24.1460002833475</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -37457,7 +37304,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(4.2),19.5,27.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>24.0875667930474</value>
+                            <value>23.0789614145646</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -37526,7 +37373,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(100-randorganic(4.2),16.5,27.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>20.7841180918809</value>
+                            <value>22.1375884861839</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -37541,7 +37388,7 @@
                             <name>emitterconservationratio</name>
                             <expression>map.sin(sawtooth(4.2)+75+96)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>22.8057343880701</value>
+                            <value>93.8293352485761</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>sin({0})</function>
@@ -37697,7 +37544,7 @@
                       <expression>
                       </expression>
                       <actAsVariable>True</actAsVariable>
-                      <value>100</value>
+                      <value>83.5849056603774</value>
                       <inputMode>0</inputMode>
                       <data />
                     </activationFormula>
@@ -37784,7 +37631,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(4.2),15,27)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>18.1404977175161</value>
+                            <value>18.0964235814428</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -37852,7 +37699,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(2.9),10,33)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>22.3937511545239</value>
+                            <value>20.4788935694992</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -37984,7 +37831,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(4.2),19.5,27.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>25.3838611975937</value>
+                            <value>23.323306294772</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -38053,7 +37900,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(100-randorganic(4.2),16.5,27.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>20.436041253148</value>
+                            <value>25.8146120289226</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -38068,7 +37915,7 @@
                             <name>emitterconservationratio</name>
                             <expression>map.sin(sawtooth(4.2)+75+96)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>22.8057343880701</value>
+                            <value>93.8293352485761</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>sin({0})</function>
@@ -38611,7 +38458,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(4.2),15,27)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>17.2201626881936</value>
+                            <value>21.0614300337327</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -38679,7 +38526,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(2.9),10,35.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>15.2807598668898</value>
+                            <value>25.1000628473901</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -38811,7 +38658,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(4.2),19.5,27.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>24.5432671833667</value>
+                            <value>24.2635499668919</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -38880,7 +38727,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(100-randorganic(4.2),16.5,27.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>23.8688478138586</value>
+                            <value>23.3752808560074</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -38895,7 +38742,7 @@
                             <name>emitterconservationratio</name>
                             <expression>map.sin(sawtooth(4.2)+75+96)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>22.8057343880701</value>
+                            <value>93.8293352485761</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>sin({0})</function>
@@ -39318,7 +39165,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(4.2),15,27)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>17.7545934618207</value>
+                            <value>20.7328044828761</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -39386,7 +39233,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(2.9),10,35.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>23.6353815046557</value>
+                            <value>26.7051987319531</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -39518,7 +39365,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(4.2),19.5,27.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>23.7445818011868</value>
+                            <value>26.5007483362894</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -39587,7 +39434,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(100-randorganic(4.2),16.5,27.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>22.6799455287716</value>
+                            <value>21.1753501132017</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -39602,7 +39449,7 @@
                             <name>emitterconservationratio</name>
                             <expression>map.sin(sawtooth(4.2)+75+96)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>22.8057343880701</value>
+                            <value>93.8293352485761</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>sin({0})</function>
@@ -40115,7 +39962,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(4.2),15,27)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>21.3782173075549</value>
+                            <value>17.9587521157746</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -40183,7 +40030,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(2.9),10,35.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>14.8827672657533</value>
+                            <value>20.4813253555064</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -40315,7 +40162,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(4.2),19.5,27.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>23.0866127402651</value>
+                            <value>24.4025332271204</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -40384,7 +40231,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(100-randorganic(4.2),16.5,27.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>16.819026239423</value>
+                            <value>20.6705881147465</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -40399,7 +40246,7 @@
                             <name>emitterconservationratio</name>
                             <expression>map.sin(sawtooth(4.2)+75+96)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>22.8057343880701</value>
+                            <value>93.8293352485761</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>sin({0})</function>
@@ -40822,7 +40669,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(4.2),15,27)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>20.613625980387</value>
+                            <value>25.9727720851759</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -40890,7 +40737,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(2.9),10,35.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>19.2660883847033</value>
+                            <value>19.7959887401593</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -41022,7 +40869,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(4.2),19.5,27.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>25.786002307896</value>
+                            <value>21.883426825318</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -41091,7 +40938,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(100-randorganic(4.2),16.5,27.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>22.5928337263098</value>
+                            <value>22.3939882409648</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -41106,7 +40953,7 @@
                             <name>emitterconservationratio</name>
                             <expression>map.sin(sawtooth(4.2)+75+96)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>22.8057343880701</value>
+                            <value>93.8293352485761</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>sin({0})</function>
@@ -41619,7 +41466,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(4.2),15,27)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>20.2642716887786</value>
+                            <value>20.1899365139272</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -41687,7 +41534,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(2.9),10,35.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>21.3727105431505</value>
+                            <value>20.8553609348772</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -41819,7 +41666,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(randorganic(4.2),19.5,27.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>21.407010045463</value>
+                            <value>23.2672637108198</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -41888,7 +41735,7 @@
                             <name>internalEmitter</name>
                             <expression>scale(100-randorganic(4.2),16.5,27.5)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>23.7118075581398</value>
+                            <value>19.8605385162854</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>randorganic({0})</function>
@@ -41903,7 +41750,7 @@
                             <name>emitterconservationratio</name>
                             <expression>map.sin(sawtooth(4.2)+75+96)</expression>
                             <actAsVariable>False</actAsVariable>
-                            <value>22.8057343880701</value>
+                            <value>93.8293352485761</value>
                             <inputMode>9</inputMode>
                             <data>
                               <function>sin({0})</function>
@@ -42189,6 +42036,6 @@
     </board>
   </model>
   <view>
-    <selectedGridId>62d0a6a2-bc0a-4f7e-b008-b2cb523fe3f6</selectedGridId>
+    <selectedGridId>064dc3cd-8649-44cc-81c9-74cf7a6fde60</selectedGridId>
   </view>
 </console>
